@@ -3,4 +3,4 @@
 - 🔭 I’m currently working on my life problems.
 - 🌱 I’m currently learning python.
 - 😄 Pronouns: Madman.
-- ⚡ Fun fact: Me is madman.
+- ⚡ Fun fact: I do fart a lot.
