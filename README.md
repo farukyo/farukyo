@@ -2,8 +2,13 @@
 <h3 align="center">I... I don't know what to write here</h3>
 
 ITU Supercomputer Club
+
 OpenMPI Parallel Programming
+
 C/C++
+
 Python
+
 Git
+
 Arduino
