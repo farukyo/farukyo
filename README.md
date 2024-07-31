@@ -1,14 +1,10 @@
 <h1 align="center">Hi 👋, I'm Faruk</h1>
 <h3 align="center">Hello World!</h3>
 
-Amazon AWS
+I'm currently learning Python/Numpy/Pandas/MatPlotLib
 
-MySQL
+and also C/C++/OpenMPI
 
-ITU Supercomputer Club
+and also Amazon AWS
 
-OpenMPI Parallel Programming
-
-C/C++
-
-Python
+AND ALSO MySQL
