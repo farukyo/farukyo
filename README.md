@@ -1,8 +1,7 @@
 # Hi, I'm Faruk! 👋
 
-![Profile Views](https://komarev.com/ghpvc/?username=farukyo&label=Profile%20views&color=0e75b6&style=flat)
-
 [![Email](https://img.shields.io/badge/Email-3au6ken1%40duck.com-4A90E2?style=for-the-badge&logo=icloud&logoColor=white)](mailto:3au6ken1@duck.com)
+![Profile Views](https://komarev.com/ghpvc/?username=farukyo&label=Profile%20views&color=0e75b6&style=flat)
 
 ---
 
