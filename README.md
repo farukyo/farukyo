@@ -6,6 +6,15 @@
 
 ---
 
+> [!TIP]
+> Az uyuyan günü, çok uyuyan aklını kaçırır.
+
+<!-- XKCD-START -->
+![Daily XKCD - Superstition](https://imgs.xkcd.com/comics/superstition.png)
+<br/>
+[Superstition - XKCD #3191](https://xkcd.com/3191/)
+<!-- XKCD-END -->
+
 ## 🛠️ Tech Stack
 
 ### 💻 Languages & Version Control
@@ -54,9 +63,6 @@
 [![uv](https://img.shields.io/badge/uv-DE5FE9?style=for-the-badge&logo=uv&logoColor=white)](https://github.com/astral-sh/uv)
 
 ---
-
-> [!TIP]
-> ⚡
 
 ## 📈 Activity Graph
 
