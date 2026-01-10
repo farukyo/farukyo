@@ -9,9 +9,9 @@
 > Az uyuyan günü, çok uyuyan aklını kaçırır.
 
 <!-- XKCD-START -->
-![Daily XKCD - Superstition](https://imgs.xkcd.com/comics/superstition.png)
+![Daily XKCD - Planetary Alignment](https://imgs.xkcd.com/comics/planetary_alignment.png)
 <br/>
-[Superstition - XKCD #3191](https://xkcd.com/3191/)
+[Planetary Alignment - XKCD #3192](https://xkcd.com/3192/)
 <!-- XKCD-END -->
 
 ## 🛠️ Tech Stack
