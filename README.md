@@ -9,9 +9,9 @@
 > Az uyuyan günü, çok uyuyan aklını kaçırır.
 
 <!-- XKCD-START -->
-![Daily XKCD - Planetary Alignment](https://imgs.xkcd.com/comics/planetary_alignment.png)
+![Daily XKCD - Sailing Rigs](https://imgs.xkcd.com/comics/sailing_rigs.png)
 <br/>
-[Planetary Alignment - XKCD #3192](https://xkcd.com/3192/)
+[Sailing Rigs - XKCD #3193](https://xkcd.com/3193/)
 <!-- XKCD-END -->
 
 ## 🛠️ Tech Stack
