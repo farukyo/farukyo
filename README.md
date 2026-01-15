@@ -9,9 +9,9 @@
 > Az uyuyan günü, çok uyuyan aklını kaçırır.
 
 <!-- XKCD-START -->
-![Daily XKCD - Sailing Rigs](https://imgs.xkcd.com/comics/sailing_rigs.png)
+![Daily XKCD - 16-Part Epoxy](https://imgs.xkcd.com/comics/16_part_epoxy.png)
 <br/>
-[Sailing Rigs - XKCD #3193](https://xkcd.com/3193/)
+[16-Part Epoxy - XKCD #3194](https://xkcd.com/3194/)
 <!-- XKCD-END -->
 
 ## 🛠️ Tech Stack
