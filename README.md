@@ -9,9 +9,9 @@
 > Az uyuyan günü, çok uyuyan aklını kaçırır.
 
 <!-- XKCD-START -->
-![Daily XKCD - 16-Part Epoxy](https://imgs.xkcd.com/comics/16_part_epoxy.png)
+![Daily XKCD - International Station](https://imgs.xkcd.com/comics/international_station.png)
 <br/>
-[16-Part Epoxy - XKCD #3194](https://xkcd.com/3194/)
+[International Station - XKCD #3195](https://xkcd.com/3195/)
 <!-- XKCD-END -->
 
 ## 🛠️ Tech Stack
