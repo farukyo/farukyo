@@ -9,9 +9,9 @@
 > Az uyuyan günü, çok uyuyan aklını kaçırır.
 
 <!-- XKCD-START -->
-![Daily XKCD - International Station](https://imgs.xkcd.com/comics/international_station.png)
+![Daily XKCD - Aurora Coolness](https://imgs.xkcd.com/comics/aurora_coolness.png)
 <br/>
-[International Station - XKCD #3195](https://xkcd.com/3195/)
+[Aurora Coolness - XKCD #3196](https://xkcd.com/3196/)
 <!-- XKCD-END -->
 
 ## 🛠️ Tech Stack
