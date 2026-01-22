@@ -9,9 +9,9 @@
 > Az uyuyan günü, çok uyuyan aklını kaçırır.
 
 <!-- XKCD-START -->
-![Daily XKCD - Aurora Coolness](https://imgs.xkcd.com/comics/aurora_coolness.png)
+![Daily XKCD - Cost Savings](https://imgs.xkcd.com/comics/cost_savings.png)
 <br/>
-[Aurora Coolness - XKCD #3196](https://xkcd.com/3196/)
+[Cost Savings - XKCD #3197](https://xkcd.com/3197/)
 <!-- XKCD-END -->
 
 ## 🛠️ Tech Stack
