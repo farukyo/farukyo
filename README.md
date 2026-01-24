@@ -1,7 +1,6 @@
 # Hi, I'm Faruk! 👋
 
 [![Email](https://img.shields.io/badge/Email-3au6ken1%40duck.com-4A90E2?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:3au6ken1@duck.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/farukyo)
 ![Profile Views](https://komarev.com/ghpvc/?username=farukyo&label=Profile%20views&color=4A90E2&style=for-the-badge)
 
 > [!TIP]
@@ -44,9 +43,6 @@
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
 [![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
-[![ARM](https://img.shields.io/badge/ARM-0091BD?style=for-the-badge&logo=arm&logoColor=white)](https://www.arm.com/)
-[![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)](https://www.st.com/en/microcontrollers-microprocessors/stm32-32-bit-arm-cortex-mcus.html)
-[![MSP430](https://img.shields.io/badge/MSP430-CC0000?style=for-the-badge&logo=texasinstruments&logoColor=white)](https://www.ti.com/microcontrollers-mcus-processors/msp430-microcontrollers/overview.html)
 [![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
@@ -60,7 +56,7 @@
 [![Zed](https://img.shields.io/badge/Zed-212121?style=for-the-badge&logo=zedindustries&logoColor=white)](https://zed.dev/)
 [![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)](https://www.jetbrains.com/pycharm/)
 [![CLion](https://img.shields.io/badge/CLion-000000?style=for-the-badge&logo=clion&logoColor=white)](https://www.jetbrains.com/clion/)
-[![Antigravity](https://img.shields.io/badge/antigravity-000000?style=for-the-badge&logo=xkcd&logoColor=white)](https://xkcd.com/353/)
+[![Antigravity](https://img.shields.io/badge/antigravity-000000?style=for-the-badge&logo=googleads&logoColor=white)](https://xkcd.com/353/)
 [![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)](https://www.anaconda.com/)
 [![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)](https://www.arduino.cc/)
 [![Termius](https://img.shields.io/badge/Termius-1D2631?style=for-the-badge&logo=termius&logoColor=white)](https://termius.com/)
@@ -80,12 +76,15 @@
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-E94321?style=for-the-badge&logo=ubuntu&logoColor=white)](https://ubuntu.com/)
 [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=gnometerminal&logoColor=white)](https://www.microsoft.com/windows)
 [![Nvidia Jetson](https://img.shields.io/badge/Nvidia%20Jetson-76B900?style=for-the-badge&logo=nvidia&logoColor=white)](https://www.nvidia.com/en-us/autonomous-machines/embedded-systems/)
+[![ARM](https://img.shields.io/badge/ARM-0091BD?style=for-the-badge&logo=arm&logoColor=white)](https://www.arm.com/)
+[![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)](https://www.st.com/en/microcontrollers-microprocessors/stm32-32-bit-arm-cortex-mcus.html)
+[![MSP430](https://img.shields.io/badge/MSP430-CC0000?style=for-the-badge&logo=textual&logoColor=white)](https://www.ti.com/microcontrollers-mcus-processors/msp430-microcontrollers/overview.html)
 
 ### 🗄️ Databases
 
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
 [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
-[![Qdrant](https://img.shields.io/badge/Qdrant-D62327?style=for-the-badge&logo=qdrant&logoColor=white)](https://qdrant.tech/)
+[![Qdrant](https://img.shields.io/badge/Qdrant-D62327?style=for-the-badge&logo=aiohttp&logoColor=white)](https://qdrant.tech/)
 
 ### 🧠 Data Science & AI
 
