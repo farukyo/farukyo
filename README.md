@@ -60,10 +60,6 @@
 
 ---
 
-## 📈 Activity Graph
-
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/farukyo/farukyo/output/snake.svg" alt="Snake animation" />
-
-###
