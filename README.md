@@ -9,9 +9,9 @@
 > Az uyuyan günü, çok uyuyan aklını kaçırır.
 
 <!-- XKCD-START -->
-![Daily XKCD - Cost Savings](https://imgs.xkcd.com/comics/cost_savings.png)
+![Daily XKCD - Double-Pronged Extension Cord](https://imgs.xkcd.com/comics/double_pronged_extension_cord.png)
 <br/>
-[Cost Savings - XKCD #3197](https://xkcd.com/3197/)
+[Double-Pronged Extension Cord - XKCD #3198](https://xkcd.com/3198/)
 <!-- XKCD-END -->
 
 ## 🛠️ Tech Stack
