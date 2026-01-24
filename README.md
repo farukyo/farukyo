@@ -1,6 +1,7 @@
 # Hi, I'm Faruk! 👋
 
 [![Email](https://img.shields.io/badge/Email-3au6ken1%40duck.com-4A90E2?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:3au6ken1@duck.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/farukyo)
 ![Profile Views](https://komarev.com/ghpvc/?username=farukyo&label=Profile%20views&color=4A90E2&style=for-the-badge)
 
 > [!TIP]
@@ -41,7 +42,6 @@
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![Antigravity](https://img.shields.io/badge/antigravity-000000?style=for-the-badge&logo=python&logoColor=white)](https://xkcd.com/353/)
 [![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
 [![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
 [![ARM](https://img.shields.io/badge/ARM-0091BD?style=for-the-badge&logo=arm&logoColor=white)](https://www.arm.com/)
@@ -60,6 +60,7 @@
 [![Zed](https://img.shields.io/badge/Zed-212121?style=for-the-badge&logo=zedindustries&logoColor=white)](https://zed.dev/)
 [![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)](https://www.jetbrains.com/pycharm/)
 [![CLion](https://img.shields.io/badge/CLion-000000?style=for-the-badge&logo=clion&logoColor=white)](https://www.jetbrains.com/clion/)
+[![Antigravity](https://img.shields.io/badge/antigravity-000000?style=for-the-badge&logo=xkcd&logoColor=white)](https://xkcd.com/353/)
 [![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)](https://www.anaconda.com/)
 [![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)](https://www.arduino.cc/)
 [![Termius](https://img.shields.io/badge/Termius-1D2631?style=for-the-badge&logo=termius&logoColor=white)](https://termius.com/)
