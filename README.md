@@ -14,6 +14,12 @@
 
 ---
 
+## 📈 Activity
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/farukyo/farukyo/output/snake.svg" alt="Snake animation" />
+
 ## 🛠️ Tech Stack
 
 ### 💻 Languages & Version Control
@@ -46,7 +52,6 @@
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
 [![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)](https://kubernetes.io/)
 [![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com/)
-[![NVIDIA](https://img.shields.io/badge/NVIDIA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)](https://www.nvidia.com/)
 [![Nvidia Jetson](https://img.shields.io/badge/Nvidia%20Jetson-76B900?style=for-the-badge&logo=nvidia&logoColor=white)](https://www.nvidia.com/en-us/autonomous-machines/embedded-systems/)
 [![Linux Mint](https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white)](https://linuxmint.com/)
 [![Fedora](https://img.shields.io/badge/Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=white)](https://getfedora.org/)
@@ -73,9 +78,3 @@
 [![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
 
 ---
-
-## 📈 Activity
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/farukyo/farukyo/output/snake.svg" alt="Snake animation" />
