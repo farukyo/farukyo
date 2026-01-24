@@ -13,7 +13,10 @@ comic_num = data["num"]
 comic_url = f"https://xkcd.com/{comic_num}/"
 
 # Prepare new XKCD section
-new_xkcd_md = f"![Daily XKCD - {title}]({img_url})\n<br/>\n[{title} - XKCD #{comic_num}]({comic_url})\n"
+new_xkcd_md = (
+    f"![Daily XKCD - {title}]({img_url})\n<br/>\n"
+    f"[![XKCD - Read Comic](https://img.shields.io/badge/XKCD-Read%20Comic%20%23{comic_num}-8b3dff?style=for-the-badge&logo=xkcd&logoColor=white)]({comic_url})\n"
+)
 
 # Read README
 with open(README_PATH, "r", encoding="utf-8") as f:

@@ -11,7 +11,7 @@
 <!-- XKCD-START -->
 ![Daily XKCD - Double-Pronged Extension Cord](https://imgs.xkcd.com/comics/double_pronged_extension_cord.png)
 <br/>
-[![XKCD - Read Comic](https://img.shields.io/badge/XKCD-Read%20Comic%20#3198-8b3dff?style=for-the-badge&logo=xkcd&logoColor=white)](https://xkcd.com/3198/)
+[![XKCD - Read Comic](https://img.shields.io/badge/XKCD-Read%20Comic%20%233198-8b3dff?style=for-the-badge&logo=xkcd&logoColor=white)](https://xkcd.com/3198/)
 <!-- XKCD-END -->
 
 ## 🛠️ Tech Stack
