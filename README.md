@@ -64,4 +64,8 @@
 
 ## 📈 Activity Graph
 
-[![Faruk's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=farukyo&bg_color=121212&color=e0e0e0&line=8b3dff&point=c792ea&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
+###
