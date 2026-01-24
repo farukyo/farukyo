@@ -5,6 +5,14 @@
 
 ---
 
+## 📈 Activity Graph
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/farukyo/farukyo/output/snake.svg" alt="Snake animation" />
+
+###
+
 > [!TIP]
 > Az uyuyan günü, çok uyuyan aklını kaçırır.
 
@@ -62,11 +70,3 @@
 [![uv](https://img.shields.io/badge/uv-DE5FE9?style=for-the-badge&logo=uv&logoColor=white)](https://github.com/astral-sh/uv)
 
 ---
-
-## 📈 Activity Graph
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/farukyo/farukyo/output/snake.svg" alt="Snake animation" />
-
-###
