@@ -9,8 +9,9 @@
 > Az uyuyan günü, çok uyuyan aklını kaçırır.
 
 <!-- XKCD-START -->
-![Daily XKCD - Superstition](https://imgs.xkcd.com/comics/superstition.png)  
-[![Read on XKCD](https://img.shields.io/badge/XKCD%20Comic%20Link-Superstition-8b3dff?style=for-the-badge&logo=readthedocs&logoColor=white)](https://xkcd.com/3191/)
+![Daily XKCD - Double-Pronged Extension Cord](https://imgs.xkcd.com/comics/double_pronged_extension_cord.png)
+<br/>
+[Double-Pronged Extension Cord - XKCD #3198](https://xkcd.com/3198/)
 <!-- XKCD-END -->
 
 ## 🛠️ Tech Stack
