@@ -60,7 +60,7 @@
 
 ---
 
-## 📈 Activity
+### 📈 Activity
 
 <br clear="both">
 
