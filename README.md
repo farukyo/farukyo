@@ -21,9 +21,9 @@
 <img src="https://raw.githubusercontent.com/farukyo/farukyo/output/snake.svg" alt="Snake animation" />
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/farukyo/farukyo/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/farukyo/farukyo/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/farukyo/farukyo/output/pacman-contribution-graph.svg">
 </picture>
 
 ###
@@ -53,9 +53,8 @@
 [![CLion](https://img.shields.io/badge/CLion-000000?style=for-the-badge&logo=clion&logoColor=white)](https://www.jetbrains.com/clion/)
 [![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)](https://www.anaconda.com/)
 [![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)](https://www.arduino.cc/)
-[![Keil](https://img.shields.io/badge/Keil-00447C?style=for-the-badge&logo=keil&logoColor=white)](https://www.keil.com/)
 [![Termius](https://img.shields.io/badge/Termius-1D2631?style=for-the-badge&logo=termius&logoColor=white)](https://termius.com/)
-[![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge)](https://www.canva.com/)
+[![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)](https://www.canva.com/)
 [![Bitwarden](https://img.shields.io/badge/Bitwarden-175DDC?style=for-the-badge&logo=bitwarden&logoColor=white)](https://bitwarden.com/)
 [![.env](https://img.shields.io/badge/.env-ECD53F?style=for-the-badge&logo=dotenv&logoColor=black)](https://github.com/motdotla/dotenv)
 [![Ruff](https://img.shields.io/badge/Ruff-D7FF64?style=for-the-badge&logo=ruff&logoColor=black)](https://github.com/astral-sh/ruff)
@@ -66,12 +65,12 @@
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
 [![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)](https://kubernetes.io/)
 [![OpenVPN](https://img.shields.io/badge/OpenVPN-EA7E20?style=for-the-badge&logo=openvpn&logoColor=white)](https://openvpn.net/)
-[![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com/)
-[![Nvidia Jetson](https://img.shields.io/badge/Nvidia%20Jetson-76B900?style=for-the-badge&logo=nvidia&logoColor=white)](https://www.nvidia.com/en-us/autonomous-machines/embedded-systems/)
+[![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg)](https://aws.amazon.com/)
 [![Linux Mint](https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white)](https://linuxmint.com/)
 [![Fedora](https://img.shields.io/badge/Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=white)](https://getfedora.org/)
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-E94321?style=for-the-badge&logo=ubuntu&logoColor=white)](https://ubuntu.com/)
 [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=microsoftwindows&logoColor=white)](https://www.microsoft.com/windows)
+[![Nvidia Jetson](https://img.shields.io/badge/Nvidia%20Jetson-76B900?style=for-the-badge&logo=nvidia&logoColor=white)](https://www.nvidia.com/en-us/autonomous-machines/embedded-systems/)
 
 ### 🗄️ Databases
 
@@ -93,3 +92,7 @@
 [![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
 
 ---
+
+### ✍️ Random Dev Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
