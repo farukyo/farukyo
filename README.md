@@ -4,14 +4,9 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=farukyo&label=Profile%20views&color=0e75b6&style=flat)
 
 ---
-
-## 📈 Activity Graph
-
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/farukyo/farukyo/output/snake.svg" alt="Snake animation" />
-
-###
 
 > [!TIP]
 > Az uyuyan günü, çok uyuyan aklını kaçırır.
