@@ -76,7 +76,7 @@
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-E94321?style=for-the-badge&logo=ubuntu&logoColor=white)](https://ubuntu.com/)
 [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=gnometerminal&logoColor=white)](https://www.microsoft.com/windows)
 [![Nvidia Jetson](https://img.shields.io/badge/Nvidia%20Jetson-76B900?style=for-the-badge&logo=nvidia&logoColor=white)](https://www.nvidia.com/en-us/autonomous-machines/embedded-systems/)
-[![Arm µVision](https://img.shields.io/badge/ARM-0091BD?style=for-the-badge&logo=arm&logoColor=white)](https://www.arm.com/)
+[![Arm µVision](https://img.shields.io/badge/ARM--µVision-0091BD?style=for-the-badge&logo=arm&logoColor=white)](https://www.arm.com/)
 [![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)](https://www.st.com/en/microcontrollers-microprocessors/stm32-32-bit-arm-cortex-mcus.html)
 [![MSP430](https://img.shields.io/badge/MSP430-CC0000?style=for-the-badge&logo=textual&logoColor=white)](https://www.ti.com/microcontrollers-mcus-processors/msp430-microcontrollers/overview.html)
 
