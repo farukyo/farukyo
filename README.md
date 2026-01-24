@@ -26,6 +26,10 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/farukyo/farukyo/output/pacman-contribution-graph.svg">
 </picture>
 
+### ✍️ Random Dev Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
 ###
 
 ## 🛠️ Tech Stack
@@ -92,7 +96,3 @@
 [![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
 
 ---
-
-### ✍️ Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
