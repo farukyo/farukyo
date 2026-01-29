@@ -7,9 +7,9 @@
 > Az uyuyan günü, çok uyuyan aklını kaçırır.
 
 <!-- XKCD-START -->
-![Daily XKCD - Early Arthropods](https://imgs.xkcd.com/comics/early_arthropods.png)
+![Daily XKCD - Chemical Formula](https://imgs.xkcd.com/comics/chemical_formula.png)
 <br/>
-[![XKCD - Read Comic](https://img.shields.io/badge/XKCD-Read%20Comic%20%233199-8b3dff?style=for-the-badge&logo=xkcd&logoColor=white)](https://xkcd.com/3199/)
+[![XKCD - Read Comic](https://img.shields.io/badge/XKCD-Read%20Comic%20%233200-8b3dff?style=for-the-badge&logo=xkcd&logoColor=white)](https://xkcd.com/3200/)
 <!-- XKCD-END -->
 
 ---
