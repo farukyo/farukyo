@@ -7,9 +7,9 @@
 > Az uyuyan günü, çok uyuyan aklını kaçırır.
 
 <!-- XKCD-START -->
-![Daily XKCD - Groundhog Day Meaning](https://imgs.xkcd.com/comics/groundhog_day_meaning.png)
+![Daily XKCD - Binary Star](https://imgs.xkcd.com/comics/binary_star.png)
 <br/>
-[![XKCD - Read Comic](https://img.shields.io/badge/XKCD-Read%20Comic%20%233202-8b3dff?style=for-the-badge&logo=xkcd&logoColor=white)](https://xkcd.com/3202/)
+[![XKCD - Read Comic](https://img.shields.io/badge/XKCD-Read%20Comic%20%233203-8b3dff?style=for-the-badge&logo=xkcd&logoColor=white)](https://xkcd.com/3203/)
 <!-- XKCD-END -->
 
 ---
