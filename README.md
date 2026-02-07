@@ -7,9 +7,9 @@
 > Az uyuyan günü, çok uyuyan aklını kaçırır.
 
 <!-- XKCD-START -->
-![Daily XKCD - Binary Star](https://imgs.xkcd.com/comics/binary_star.png)
+![Daily XKCD - Dinosaurs And Non-Dinosaurs](https://imgs.xkcd.com/comics/dinosaurs_and_non_dinosaurs.png)
 <br/>
-[![XKCD - Read Comic](https://img.shields.io/badge/XKCD-Read%20Comic%20%233203-8b3dff?style=for-the-badge&logo=xkcd&logoColor=white)](https://xkcd.com/3203/)
+[![XKCD - Read Comic](https://img.shields.io/badge/XKCD-Read%20Comic%20%233204-8b3dff?style=for-the-badge&logo=xkcd&logoColor=white)](https://xkcd.com/3204/)
 <!-- XKCD-END -->
 
 ---
