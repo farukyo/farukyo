@@ -7,9 +7,9 @@
 > Az uyuyan günü, çok uyuyan aklını kaçırır.
 
 <!-- XKCD-START -->
-![Daily XKCD - Plate Flip](https://imgs.xkcd.com/comics/plate_flip.png)
+![Daily XKCD - Tethys](https://imgs.xkcd.com/comics/tethys.png)
 <br/>
-[![XKCD - Read Comic](https://img.shields.io/badge/XKCD-Read%20Comic%20%233258-8b3dff?style=for-the-badge&logo=xkcd&logoColor=white)](https://xkcd.com/3258/)
+[![XKCD - Read Comic](https://img.shields.io/badge/XKCD-Read%20Comic%20%233259-8b3dff?style=for-the-badge&logo=xkcd&logoColor=white)](https://xkcd.com/3259/)
 <!-- XKCD-END -->
 
 ---
