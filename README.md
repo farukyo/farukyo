@@ -7,9 +7,9 @@
 > Az uyuyan günü, çok uyuyan aklını kaçırır.
 
 <!-- XKCD-START -->
-![Daily XKCD - Types of Tornado Alert](https://imgs.xkcd.com/comics/types_of_tornado_alert.png)
+![Daily XKCD - Offside](https://imgs.xkcd.com/comics/offside.png)
 <br/>
-[![XKCD - Read Comic](https://img.shields.io/badge/XKCD-Read%20Comic%20%233267-8b3dff?style=for-the-badge&logo=xkcd&logoColor=white)](https://xkcd.com/3267/)
+[![XKCD - Read Comic](https://img.shields.io/badge/XKCD-Read%20Comic%20%233268-8b3dff?style=for-the-badge&logo=xkcd&logoColor=white)](https://xkcd.com/3268/)
 <!-- XKCD-END -->
 
 ---
