@@ -7,9 +7,9 @@
 > Az uyuyan günü, çok uyuyan aklını kaçırır.
 
 <!-- XKCD-START -->
-![Daily XKCD - The Princess and the Pea](https://imgs.xkcd.com/comics/the_princess_and_the_pea.png)
+![Daily XKCD - Time Change](https://imgs.xkcd.com/comics/time_change.png)
 <br/>
-[![XKCD - Read Comic](https://img.shields.io/badge/XKCD-Read%20Comic%20%233271-8b3dff?style=for-the-badge&logo=xkcd&logoColor=white)](https://xkcd.com/3271/)
+[![XKCD - Read Comic](https://img.shields.io/badge/XKCD-Read%20Comic%20%233272-8b3dff?style=for-the-badge&logo=xkcd&logoColor=white)](https://xkcd.com/3272/)
 <!-- XKCD-END -->
 
 ---
