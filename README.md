@@ -7,9 +7,9 @@
 > Az uyuyan günü, çok uyuyan aklını kaçırır.
 
 <!-- XKCD-START -->
-![Daily XKCD - Forth](https://imgs.xkcd.com/comics/forth.png)
+![Daily XKCD - Vera Rubin Observatory](https://imgs.xkcd.com/comics/vera_rubin_observatory.png)
 <br/>
-[![XKCD - Read Comic](https://img.shields.io/badge/XKCD-Read%20Comic%20%233277-8b3dff?style=for-the-badge&logo=xkcd&logoColor=white)](https://xkcd.com/3277/)
+[![XKCD - Read Comic](https://img.shields.io/badge/XKCD-Read%20Comic%20%233278-8b3dff?style=for-the-badge&logo=xkcd&logoColor=white)](https://xkcd.com/3278/)
 <!-- XKCD-END -->
 
 ---
