@@ -7,9 +7,9 @@
 > Az uyuyan günü, çok uyuyan aklını kaçırır.
 
 <!-- XKCD-START -->
-![Daily XKCD - Particle Physics Equipment](https://imgs.xkcd.com/comics/particle_physics_equipment.png)
+![Daily XKCD - Perseids](https://imgs.xkcd.com/comics/perseids.png)
 <br/>
-[![XKCD - Read Comic](https://img.shields.io/badge/XKCD-Read%20Comic%20%233286-8b3dff?style=for-the-badge&logo=xkcd&logoColor=white)](https://xkcd.com/3286/)
+[![XKCD - Read Comic](https://img.shields.io/badge/XKCD-Read%20Comic%20%233287-8b3dff?style=for-the-badge&logo=xkcd&logoColor=white)](https://xkcd.com/3287/)
 <!-- XKCD-END -->
 
 ---
