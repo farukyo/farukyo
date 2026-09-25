@@ -17,11 +17,11 @@
 
 ---
 
-## 🧭 About
+## 📊 Contribution Activity
 
-- Building software across the stack, from **microcontrollers** (STM32, MSP430) and **edge devices** (NVIDIA Jetson) to **ML pipelines** and **containerized services**.
-- Primarily working with **Python** and **C/C++**, on **Linux**.
-- Interested in computer vision, deep learning and reliable, well-tooled codebases.
+<div align="center">
+  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/farukyo/farukyo/output/pacman-contribution-graph.svg" />
+</div>
 
 ## 🛠️ Tech Stack
 
@@ -34,9 +34,3 @@
 | **DevOps & Cloud** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![OpenVPN](https://img.shields.io/badge/OpenVPN-EA7E20?style=flat-square&logo=openvpn&logoColor=white) |
 | **Operating Systems** | ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white) ![Fedora](https://img.shields.io/badge/Fedora-51A2DA?style=flat-square&logo=fedora&logoColor=white) ![Linux Mint](https://img.shields.io/badge/Linux%20Mint-87CF3E?style=flat-square&logo=linux-mint&logoColor=white) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square) |
 | **Tooling** | ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square) ![PyCharm](https://img.shields.io/badge/PyCharm-00838F?style=flat-square&logo=pycharm&logoColor=white) ![CLion](https://img.shields.io/badge/CLion-A22F77?style=flat-square&logo=clion&logoColor=white) ![Zed](https://img.shields.io/badge/Zed-212121?style=flat-square&logo=zedindustries&logoColor=white) ![Antigravity](https://img.shields.io/badge/Antigravity-000000?style=flat-square) ![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=anaconda&logoColor=white) ![uv](https://img.shields.io/badge/uv-DE5FE9?style=flat-square&logo=uv&logoColor=white) ![Ruff](https://img.shields.io/badge/Ruff-D7FF64?style=flat-square&logo=ruff&logoColor=black) |
-
-## 📊 Contribution Activity
-
-<div align="center">
-  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/farukyo/farukyo/output/pacman-contribution-graph.svg" />
-</div>
