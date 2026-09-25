@@ -7,6 +7,12 @@
 [![Email](https://img.shields.io/badge/Email-3au6ken1%40duck.com-4A90E2?style=flat-square&logo=duckduckgo&logoColor=white)](mailto:3au6ken1@duck.com)
 ![Profile Views](https://komarev.com/ghpvc/?username=farukyo&label=Profile%20views&color=4A90E2&style=flat-square)
 
+<!-- XKCD-START -->
+![Daily XKCD - Voyager Instruments](https://imgs.xkcd.com/comics/voyager_instruments.png)
+<br/>
+[![XKCD - Read Comic](https://img.shields.io/badge/XKCD-Read%20Comic%20%233302-8b3dff?style=flat-square&logo=xkcd&logoColor=white)](https://xkcd.com/3302/)
+<!-- XKCD-END -->
+
 </div>
 
 ---
@@ -33,16 +39,4 @@
 
 <div align="center">
   <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/farukyo/farukyo/output/pacman-contribution-graph.svg" />
-</div>
-
-## 🗞️ Daily XKCD
-
-<div align="center">
-
-<!-- XKCD-START -->
-![Daily XKCD - Voyager Instruments](https://imgs.xkcd.com/comics/voyager_instruments.png)
-<br/>
-[![XKCD - Read Comic](https://img.shields.io/badge/XKCD-Read%20Comic%20%233302-8b3dff?style=flat-square&logo=xkcd&logoColor=white)](https://xkcd.com/3302/)
-<!-- XKCD-END -->
-
 </div>
