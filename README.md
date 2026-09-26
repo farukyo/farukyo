@@ -8,9 +8,9 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=farukyo&label=Profile%20views&color=4A90E2&style=flat-square)
 
 <!-- XKCD-START -->
-![Daily XKCD - Voyager Instruments](https://imgs.xkcd.com/comics/voyager_instruments.png)
+![Daily XKCD - Slab Graveyard](https://imgs.xkcd.com/comics/slab_graveyard.png)
 <br/>
-[![XKCD - Read Comic](https://img.shields.io/badge/XKCD-Read%20Comic%20%233302-8b3dff?style=flat-square&logo=xkcd&logoColor=white)](https://xkcd.com/3302/)
+[![XKCD - Read Comic](https://img.shields.io/badge/XKCD-Read%20Comic%20%233303-8b3dff?style=flat-square&logo=xkcd&logoColor=white)](https://xkcd.com/3303/)
 <!-- XKCD-END -->
 
 </div>
