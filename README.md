@@ -8,9 +8,9 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=farukyo&label=Profile%20views&color=4A90E2&style=flat-square)
 
 <!-- XKCD-START -->
-![Daily XKCD - Jupiter Icy Moons Explorer](https://imgs.xkcd.com/comics/jupiter_icy_moons_explorer.png)
+![Daily XKCD - Ground Effect](https://imgs.xkcd.com/comics/ground_effect.png)
 <br/>
-[![XKCD - Read Comic](https://img.shields.io/badge/XKCD-Read%20Comic%20%233304-8b3dff?style=flat-square&logo=xkcd&logoColor=white)](https://xkcd.com/3304/)
+[![XKCD - Read Comic](https://img.shields.io/badge/XKCD-Read%20Comic%20%233305-8b3dff?style=flat-square&logo=xkcd&logoColor=white)](https://xkcd.com/3305/)
 <!-- XKCD-END -->
 
 </div>
