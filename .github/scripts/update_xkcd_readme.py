@@ -9,12 +9,13 @@ resp = requests.get(XKCD_JSON_URL)
 data = resp.json()
 img_url = data["img"]
 title = data["safe_title"]
+hover_text = data.get("alt", "").replace('"', '\\"')  # Üzerine gelince çıkan yazı
 comic_num = data["num"]
 comic_url = f"https://xkcd.com/{comic_num}/"
 
-# Prepare new XKCD section
+# Prepare new XKCD section (hover_text tırnak içine eklendi)
 new_xkcd_md = (
-    f"![Daily XKCD - {title}]({img_url})\n<br/>\n"
+    f'![Daily XKCD - {title}]({img_url} "{hover_text}")\n<br/>\n'
     f"[![XKCD - Read Comic](https://img.shields.io/badge/XKCD-Read%20Comic%20%23{comic_num}-8b3dff?style=flat-square&logo=xkcd&logoColor=white)]({comic_url})\n"
 )
 
@@ -29,7 +30,6 @@ replacement = f"<!-- XKCD-START -->\n{new_xkcd_md}<!-- XKCD-END -->"
 if re.search(pattern, readme, flags=re.DOTALL):
     new_readme = re.sub(pattern, replacement, readme, flags=re.DOTALL)
 else:
-    # Insert after the tip block if not present
     tip_block = re.search(r"(> [^\n]+\n> [^\n]+\n)", readme)
     if tip_block:
         idx = tip_block.end()
