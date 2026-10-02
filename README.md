@@ -8,7 +8,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=farukyo&label=Profile%20views&color=4A90E2&style=flat-square)
 
 <!-- XKCD-START -->
-![Daily XKCD - Ground Effect](https://imgs.xkcd.com/comics/ground_effect.png)
+![Daily XKCD - Ground Effect](https://imgs.xkcd.com/comics/ground_effect.png "Runners looking for aerodynamic advantage typically wear sneakers because some fancy dress shoes can create wingtip vortices.")
 <br/>
 [![XKCD - Read Comic](https://img.shields.io/badge/XKCD-Read%20Comic%20%233305-8b3dff?style=flat-square&logo=xkcd&logoColor=white)](https://xkcd.com/3305/)
 <!-- XKCD-END -->
