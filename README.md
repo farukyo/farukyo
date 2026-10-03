@@ -8,9 +8,9 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=farukyo&label=Profile%20views&color=4A90E2&style=flat-square)
 
 <!-- XKCD-START -->
-![Daily XKCD - Ground Effect](https://imgs.xkcd.com/comics/ground_effect.png "Runners looking for aerodynamic advantage typically wear sneakers because some fancy dress shoes can create wingtip vortices.")
+![Daily XKCD - Accelerator Energies](https://imgs.xkcd.com/comics/accelerator_energies.png "Fans at Daytona always get extra excited when officials decide to introduce some antimatter cars circling the track in the opposite direction.")
 <br/>
-[![XKCD - Read Comic](https://img.shields.io/badge/XKCD-Read%20Comic%20%233305-8b3dff?style=flat-square&logo=xkcd&logoColor=white)](https://xkcd.com/3305/)
+[![XKCD - Read Comic](https://img.shields.io/badge/XKCD-Read%20Comic%20%233306-8b3dff?style=flat-square&logo=xkcd&logoColor=white)](https://xkcd.com/3306/)
 <!-- XKCD-END -->
 
 </div>
