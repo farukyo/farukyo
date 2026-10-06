@@ -8,9 +8,9 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=farukyo&label=Profile%20views&color=4A90E2&style=flat-square)
 
 <!-- XKCD-START -->
-![Daily XKCD - Accelerator Energies](https://imgs.xkcd.com/comics/accelerator_energies.png "Fans at Daytona always get extra excited when officials decide to introduce some antimatter cars circling the track in the opposite direction.")
+![Daily XKCD - Spectrum Allocation](https://imgs.xkcd.com/comics/spectrum_allocation.png "Rumor has it that they're finally auctioning off the zeppelin navigation bands, but everyone is worried that the scary boat captains will express interest.")
 <br/>
-[![XKCD - Read Comic](https://img.shields.io/badge/XKCD-Read%20Comic%20%233306-8b3dff?style=flat-square&logo=xkcd&logoColor=white)](https://xkcd.com/3306/)
+[![XKCD - Read Comic](https://img.shields.io/badge/XKCD-Read%20Comic%20%233307-8b3dff?style=flat-square&logo=xkcd&logoColor=white)](https://xkcd.com/3307/)
 <!-- XKCD-END -->
 
 </div>
