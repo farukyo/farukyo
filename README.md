@@ -8,9 +8,9 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=farukyo&label=Profile%20views&color=4A90E2&style=flat-square)
 
 <!-- XKCD-START -->
-![Daily XKCD - Spectrum Allocation](https://imgs.xkcd.com/comics/spectrum_allocation.png "Rumor has it that they're finally auctioning off the zeppelin navigation bands, but everyone is worried that the scary boat captains will express interest.")
+![Daily XKCD - Juice](https://imgs.xkcd.com/comics/juice.png "I need to push some updates to the remote sensing instruments, which are there to measure the surface and definitely not do anything else.")
 <br/>
-[![XKCD - Read Comic](https://img.shields.io/badge/XKCD-Read%20Comic%20%233307-8b3dff?style=flat-square&logo=xkcd&logoColor=white)](https://xkcd.com/3307/)
+[![XKCD - Read Comic](https://img.shields.io/badge/XKCD-Read%20Comic%20%233308-8b3dff?style=flat-square&logo=xkcd&logoColor=white)](https://xkcd.com/3308/)
 <!-- XKCD-END -->
 
 </div>
