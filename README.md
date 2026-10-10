@@ -8,9 +8,9 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=farukyo&label=Profile%20views&color=4A90E2&style=flat-square)
 
 <!-- XKCD-START -->
-![Daily XKCD - Juice](https://imgs.xkcd.com/comics/juice.png "I need to push some updates to the remote sensing instruments, which are there to measure the surface and definitely not do anything else.")
+![Daily XKCD - Dogcatcher](https://imgs.xkcd.com/comics/dogcatcher.png "People out here catching strays out here catching strays")
 <br/>
-[![XKCD - Read Comic](https://img.shields.io/badge/XKCD-Read%20Comic%20%233308-8b3dff?style=flat-square&logo=xkcd&logoColor=white)](https://xkcd.com/3308/)
+[![XKCD - Read Comic](https://img.shields.io/badge/XKCD-Read%20Comic%20%233309-8b3dff?style=flat-square&logo=xkcd&logoColor=white)](https://xkcd.com/3309/)
 <!-- XKCD-END -->
 
 </div>
