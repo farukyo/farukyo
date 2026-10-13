@@ -8,9 +8,9 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=farukyo&label=Profile%20views&color=4A90E2&style=flat-square)
 
 <!-- XKCD-START -->
-![Daily XKCD - Dogcatcher](https://imgs.xkcd.com/comics/dogcatcher.png "People out here catching strays out here catching strays")
+![Daily XKCD - Rejected Space Mission Profiles](https://imgs.xkcd.com/comics/rejected_space_mission_profiles.png "Although NASA agreed that Voyager 2 'seemed lonely' they decided against launching a companion orbiter mission after further measurements indicated that the spacecraft actually preferred the peace and quiet.")
 <br/>
-[![XKCD - Read Comic](https://img.shields.io/badge/XKCD-Read%20Comic%20%233309-8b3dff?style=flat-square&logo=xkcd&logoColor=white)](https://xkcd.com/3309/)
+[![XKCD - Read Comic](https://img.shields.io/badge/XKCD-Read%20Comic%20%233310-8b3dff?style=flat-square&logo=xkcd&logoColor=white)](https://xkcd.com/3310/)
 <!-- XKCD-END -->
 
 </div>
