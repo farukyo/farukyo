@@ -8,9 +8,9 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=farukyo&label=Profile%20views&color=4A90E2&style=flat-square)
 
 <!-- XKCD-START -->
-![Daily XKCD - Planet Database](https://imgs.xkcd.com/comics/planet_database.png "Atmospheric transmission spectroscopy has revealed that the sunsets from the observatory are really pretty.")
+![Daily XKCD - Momentum Demonstration](https://imgs.xkcd.com/comics/momentum_demonstration.png "\"I'm doing really well on the Hertzsprung-Russell academic diagram, which has spectral class on one axis and Rate My Professors rating on the other.\"")
 <br/>
-[![XKCD - Read Comic](https://img.shields.io/badge/XKCD-Read%20Comic%20%233311-8b3dff?style=flat-square&logo=xkcd&logoColor=white)](https://xkcd.com/3311/)
+[![XKCD - Read Comic](https://img.shields.io/badge/XKCD-Read%20Comic%20%233312-8b3dff?style=flat-square&logo=xkcd&logoColor=white)](https://xkcd.com/3312/)
 <!-- XKCD-END -->
 
 </div>
