@@ -8,9 +8,9 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=farukyo&label=Profile%20views&color=4A90E2&style=flat-square)
 
 <!-- XKCD-START -->
-![Daily XKCD - Vulnerability](https://imgs.xkcd.com/comics/vulnerability.png "Other numbers are largely unaffected, but anyone using '4' for their certificate key is urged to upgrade to '5'.")
+![Daily XKCD - Forms of Water](https://imgs.xkcd.com/comics/forms_of_water.png "The 'light' refers to bremsstrahlung.")
 <br/>
-[![XKCD - Read Comic](https://img.shields.io/badge/XKCD-Read%20Comic%20%233314-8b3dff?style=flat-square&logo=xkcd&logoColor=white)](https://xkcd.com/3314/)
+[![XKCD - Read Comic](https://img.shields.io/badge/XKCD-Read%20Comic%20%233315-8b3dff?style=flat-square&logo=xkcd&logoColor=white)](https://xkcd.com/3315/)
 <!-- XKCD-END -->
 
 </div>
