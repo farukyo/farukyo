@@ -8,9 +8,9 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=farukyo&label=Profile%20views&color=4A90E2&style=flat-square)
 
 <!-- XKCD-START -->
-![Daily XKCD - Forms of Water](https://imgs.xkcd.com/comics/forms_of_water.png "The 'light' refers to bremsstrahlung.")
+![Daily XKCD - Siege Engine](https://imgs.xkcd.com/comics/siege_engine.png "They initially thought the containment structure alone would be sufficient, but for good measure they decided to include the Elephant's Foot inside.")
 <br/>
-[![XKCD - Read Comic](https://img.shields.io/badge/XKCD-Read%20Comic%20%233315-8b3dff?style=flat-square&logo=xkcd&logoColor=white)](https://xkcd.com/3315/)
+[![XKCD - Read Comic](https://img.shields.io/badge/XKCD-Read%20Comic%20%233316-8b3dff?style=flat-square&logo=xkcd&logoColor=white)](https://xkcd.com/3316/)
 <!-- XKCD-END -->
 
 </div>
