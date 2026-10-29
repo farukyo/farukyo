@@ -8,9 +8,9 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=farukyo&label=Profile%20views&color=4A90E2&style=flat-square)
 
 <!-- XKCD-START -->
-![Daily XKCD - Siege Engine](https://imgs.xkcd.com/comics/siege_engine.png "They initially thought the containment structure alone would be sufficient, but for good measure they decided to include the Elephant's Foot inside.")
+![Daily XKCD - Gravitational Square Wave](https://imgs.xkcd.com/comics/gravitational_square_wave.png "Depending on the energy deposition I can manage, it might also be a fun prank on the rest of the Earth.")
 <br/>
-[![XKCD - Read Comic](https://img.shields.io/badge/XKCD-Read%20Comic%20%233316-8b3dff?style=flat-square&logo=xkcd&logoColor=white)](https://xkcd.com/3316/)
+[![XKCD - Read Comic](https://img.shields.io/badge/XKCD-Read%20Comic%20%233317-8b3dff?style=flat-square&logo=xkcd&logoColor=white)](https://xkcd.com/3317/)
 <!-- XKCD-END -->
 
 </div>
