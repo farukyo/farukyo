@@ -8,9 +8,9 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=farukyo&label=Profile%20views&color=4A90E2&style=flat-square)
 
 <!-- XKCD-START -->
-![Daily XKCD - Gravitational Square Wave](https://imgs.xkcd.com/comics/gravitational_square_wave.png "Depending on the energy deposition I can manage, it might also be a fun prank on the rest of the Earth.")
+![Daily XKCD - Earth Sized Planets](https://imgs.xkcd.com/comics/earth_sized_planets.png "It probably has an icy mantle over the real silicate geology, but I'm hoping something weird happened to burn off most of the water like with Io.")
 <br/>
-[![XKCD - Read Comic](https://img.shields.io/badge/XKCD-Read%20Comic%20%233317-8b3dff?style=flat-square&logo=xkcd&logoColor=white)](https://xkcd.com/3317/)
+[![XKCD - Read Comic](https://img.shields.io/badge/XKCD-Read%20Comic%20%233318-8b3dff?style=flat-square&logo=xkcd&logoColor=white)](https://xkcd.com/3318/)
 <!-- XKCD-END -->
 
 </div>
