@@ -8,9 +8,9 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=farukyo&label=Profile%20views&color=4A90E2&style=flat-square)
 
 <!-- XKCD-START -->
-![Daily XKCD - Earth Sized Planets](https://imgs.xkcd.com/comics/earth_sized_planets.png "It probably has an icy mantle over the real silicate geology, but I'm hoping something weird happened to burn off most of the water like with Io.")
+![Daily XKCD - Elevators](https://imgs.xkcd.com/comics/elevators.png "\"A reusable elevator would also be great because we'd save so much on the bulky and expensive shields that people currently use to avoid bruises and rug burns when sliding down the stairs.\"")
 <br/>
-[![XKCD - Read Comic](https://img.shields.io/badge/XKCD-Read%20Comic%20%233318-8b3dff?style=flat-square&logo=xkcd&logoColor=white)](https://xkcd.com/3318/)
+[![XKCD - Read Comic](https://img.shields.io/badge/XKCD-Read%20Comic%20%233319-8b3dff?style=flat-square&logo=xkcd&logoColor=white)](https://xkcd.com/3319/)
 <!-- XKCD-END -->
 
 </div>
